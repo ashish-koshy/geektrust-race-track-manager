@@ -11,12 +11,14 @@ GeekRacers, an adventure sports company, owns race tracks on which they allow cu
 
 # Booking Fee
 The fee differs based on the type of race track and the type of vehicle:
-`Race Track Type`	    `Vehicle Type`	    `No. of Vehicles Allowed`         `Cost Per Hour`
-         REGULAR                 BIKE	                           4                      60
-         REGULAR                  CAR	                           2	                 120
-             VIP                  CAR	                           1                     250
-         REGULAR                  SUV	                           2                     200
-             VIP                  SUV                              1                     300
+
+|`Race Track Type` |`Vehicle Type`|`No. of Vehicles Allowed`|`Cost Per Hour`|
+|------------------|--------------|-------------------------|---------------|
+|           REGULAR|          BIKE|                        4|             60|
+|           REGULAR|           CAR|                        2|            120|
+|               VIP|           CAR|                        1|            150|
+|           REGULAR|           SUV|                        2|            200|
+|               VIP|           SUV|                        1|            300|
 
 # Booking Rules
 * The race track has to be booked for a minimum of 3 Hrs per vehicle.  
